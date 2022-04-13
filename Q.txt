@@ -6,6 +6,6 @@ Your TA's name-*****-1
 N/A--0
 Java text editor-*******-2
 Atomic number 2-******-1
-In Java, a 1D or 2D ... "-*****-4
+In Java, a 1D or 2D ...-*****-4
 Not a for loop, but a ...-*****-3
 In Java, this type holds 1 letter-****-4
