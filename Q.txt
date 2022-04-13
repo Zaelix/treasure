@@ -1,11 +1,11 @@
-The 'src' folder is short for this-source-3
-Grand Canyon State-Arizona-6
-The main ______-method-6
-Your teacher's name-Daniel-5
-Your TA's name-Riley-1
+The 'src' folder is short for this-******-3
+Grand Canyon State-*******-6
+The main ______-******-6
+Your teacher's name-******-5
+Your TA's name-*****-1
 N/A--0
-Java text editor-Eclipse-2
-Atomic number 2-helium-1
-In Java, a 1D or 2D ... "-array-4
-Not a for loop, but a ...-while-3
-In Java, this type holds 1 letter-char-4
+Java text editor-*******-2
+Atomic number 2-******-1
+In Java, a 1D or 2D ... "-*****-4
+Not a for loop, but a ...-*****-3
+In Java, this type holds 1 letter-****-4
