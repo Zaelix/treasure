@@ -1,8 +1,8 @@
 The 'src' folder is short for this-******-3
-Grand Canyon State-*******-6
+Youngest student in this class-*****-5
 The main ______-******-6
-Your teacher's name-******-5
-Your TA's name-*****-1
+Your teacher's name-****-4
+In Java, these things hold values-*********-3
 N/A--0
 Java text editor-*******-2
 Atomic number 2-******-1
