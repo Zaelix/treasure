@@ -1,7 +1,7 @@
 The 'src' folder is short for this-******-3
-Youngest student in this class-*****-5
+Another language the League teaches-******-6
 The main ______-******-6
-Your teacher's name-****-4
+Another name for a whole number-*******-4
 In Java, these things hold values-*********-3
 N/A--0
 Java text editor-*******-2
